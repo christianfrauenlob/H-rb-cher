@@ -1,0 +1,9 @@
+# Zwischenspeicher und Großdateien nicht ins Repository
+_segmente/
+_kapitel.txt
+_liste.txt
+*.m4b
+*.wav
+*.tmp.mp3
+stimmproben/
+__pycache__/
